@@ -18,4 +18,4 @@ _G.Setting_table = {
 	Delay_C = 15
 }
 _G.Team = "Pirates" -- or Marines
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotRealzczz/Request-Hub/main/Loader.lua"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotRealzczz/Request-Hub/main/Loader.lua"))();
