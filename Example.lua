@@ -1,4 +1,4 @@
-repeat wait() until game:IsLoaded()
+repeat wait(1) until game:IsLoaded()
 
 _G.Setting_table = {
   Auto_Farm = true,
